@@ -120,3 +120,6 @@ public function actionChangeStatus($id, $status = 3) // 3 - Id статуса о
    - "В работу" (желтая кнопка)
    - "Выполнено" (зеленая кнопка)
    - "Отменить" (красная кнопка с модальным окном для причины)
+  
+### Следующая лекция
+### [Предыдущая лекция](https://github.com/petrocollege-web/8.-Request-create/)
